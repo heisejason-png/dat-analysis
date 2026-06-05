@@ -418,7 +418,5 @@ the unit tests. All development dependencies will be installed automatically if
 they're not available. Dat science happens primarily on Ruby 1.9.3 and 1.8.7,
 but science should be universal.
 
-## Maintainers
-
-[@jbarnette](https://github.com/jbarnette) and [@rick](https://github.com/rick)
+## Maintainer (https://github.com/jbarnette) and (https://github.com/rick)
 Created by Jason Scott Heise
